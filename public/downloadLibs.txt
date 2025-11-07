@@ -1,0 +1,3 @@
+tailwindcss
+router
+react-icons
